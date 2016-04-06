@@ -20,15 +20,17 @@
     text-align: center;
 }
 
-.features .row {
+.feature {
     margin-top: 4rem;
 }
 
 .joinus {
+    margin-top: 2rem;
     text-align: center;
 }
 
 footer {
+    margin-top: 2rem;
     text-align: center;
 }
 
