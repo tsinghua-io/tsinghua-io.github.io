@@ -1,0 +1,34 @@
+.jumbotron-with-nav {
+    background: url("../imgs/bg.png");
+    background-size: cover;
+    background-position: center;
+    padding-top: 1.5rem;
+    padding-left: 1rem;
+}
+
+.jumbotron {
+    background-color: transparent;
+    color: white;
+}
+
+.jumbotron .btn-secondary-outline {
+    border-color: white;
+    color: white;
+}
+
+.features-summary {
+    text-align: center;
+}
+
+.features .row {
+    margin-top: 4rem;
+}
+
+.joinus {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
