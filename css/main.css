@@ -2,8 +2,6 @@
     background: url("../imgs/bg.png");
     background-size: cover;
     background-position: center;
-    padding-top: 1.5rem;
-    padding-left: 1rem;
 }
 
 .jumbotron {
@@ -16,21 +14,7 @@
     color: white;
 }
 
-.features-summary {
-    text-align: center;
-}
-
 .feature {
-    margin-top: 4rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
 }
-
-.joinus {
-    margin-top: 2rem;
-    text-align: center;
-}
-
-footer {
-    margin-top: 2rem;
-    text-align: center;
-}
-
